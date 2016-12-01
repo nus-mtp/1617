@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5 {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+
+.content p, .content li  {
+  font-size: 12pt;
+  font-family: 'Merriweather', serif;
+  line-height: 1.6em;
+  margin-right: 70px;
+}
+
+body {
+  background-color: #f4f4f4;
+}
