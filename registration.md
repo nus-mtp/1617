@@ -13,7 +13,7 @@ Before you register for the module, please form a team of 4-5 students (strict l
 * There is no timetable clash with the CS3283/4 lecture slot (Fri 4-6pm)
 * Each team is expected to spend significant amount of time working together (10 hours per week).  Team members should compare timetables to ensure that there is sufficient overlaps between the free time for this to happen.
 
-If you are solo or have a team of less than the required number of students, you can go the IVLE forum [Let's Team Up](to https://ivle.nus.edu.sg/v1/forum/forum.aspx?ForumID=5f2351f0-80e0-45ca-ae32-b131095eeadc) to find other students interested in the module.
+If you are solo or have a team of less than the required number of students, you can go the IVLE forum [Let's Team Up](https://ivle.nus.edu.sg/v1/forum/forum.aspx?ForumID=5f2351f0-80e0-45ca-ae32-b131095eeadc) to find other students interested in the module.
 
 * Team dynamics can make or break a project.  Please form a team with others that you are comfortable working with.
 * It is better to form a team where team members have complimentary interests, experience, and skills.
