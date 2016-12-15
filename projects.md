@@ -17,3 +17,8 @@ A person who scans his phone bills/medical bills/banks statements often has to m
 ### 4. BComp(CS) Study Planner
 
 This project aims to assist students in study planning, as well as the department in module planning.  Students can file their 4-year study plan online and adjust them along the way.  The system should provide guidance to students regarding module prerequisites and recommends interesting and relevant modules for students.  From module planning perspective, the system allow administrators to collect data and analyze the needs of the students, and analyze the effect of a curriculum change on the students.
+
+### 5. Cross-device Copy/Paste Keyboard
+
+Ever see some information on your desktop that you would then need to copy and paste into an app on your phone?  The goal of this project is to develop a cloud-based copy/paste service, where information on opened Web pages on the desktop 
+are automatically copied into the cloud.  As you type the prefixes of matching phrases on the phone, the phone keyboard will suggest the matching phrases to autocomplete.  
