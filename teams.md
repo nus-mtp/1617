@@ -28,3 +28,11 @@ title: Teams
 * Lek Jia Ying
 * Amos Wong Wen Jet
 * Chua Jia Xuan
+
+### elegant-owls
+
+* Teddy Hartanto	 
+* Tan Yan Ling	 
+* Lim Xin Ai	 
+* Xin Kenan	 
+* Charlene Lee Kei Xin
