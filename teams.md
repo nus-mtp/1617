@@ -15,14 +15,17 @@ title: Teams
 
 ### Rainbowhead Studios
 
-* Adrian Chan Ee Ray
-* Antonius Satrio Triatmoko
-* Brandon Swee Yee
-* Natasha Koh Sze Sze
-* See Wenhan
+Project: [CS Study Planner](https://github.com/nus-mtp/cs-study-planner)
+
+* [Adrian Chan Ee Ray](https://github.com/IamVacer)
+* [Antonius Satrio Triatmoko](https://github.com/Satrio1610)
+* [Brandon Swee Yee](https://github.com/bsweeyee)
+* [Natasha Koh Sze Sze](https://github.com/NatashaKSS)
+* [See Wenhan](https://github.com/walrys)
 
 ### Shashimi
-#### Project: [Lecture Note 2.0](https://github.com/nus-mtp/lecture-note-2.0)
+
+Project: [Lecture Note 2.0](https://github.com/nus-mtp/lecture-note-2.0)
 
 * [Tay Jie Hao](https://github.com/orgs/nus-mtp/people/tayjiehao)
 * [Won Jun Ru Daphne](https://github.com/orgs/nus-mtp/people/tharain)
@@ -31,7 +34,8 @@ title: Teams
 * [Chua Jia Xuan](https://github.com/orgs/nus-mtp/people/chuajiaxuan)
 
 ### elegant-owls
-#### Project: [Bill Organizer](https://github.com/nus-mtp/bill-organizer)
+
+Project: [Bill Organizer](https://github.com/nus-mtp/bill-organizer)
 
 * [Charlene Lee Kei Xin](https://github.com/orgs/nus-mtp/people/chaejinkeyne)
 * [Lim Xin Ai](https://github.com/orgs/nus-mtp/people/lmxn)
