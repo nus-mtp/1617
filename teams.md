@@ -27,21 +27,21 @@ Project: [CS Study Planner](https://github.com/nus-mtp/cs-study-planner)
 
 Project: [Lecture Note 2.0](https://github.com/nus-mtp/lecture-note-2.0)
 
-* [Tay Jie Hao](https://github.com/orgs/nus-mtp/people/tayjiehao)
-* [Won Jun Ru Daphne](https://github.com/orgs/nus-mtp/people/tharain)
-* [Lek Jia Ying](https://github.com/orgs/nus-mtp/people/jiayingy)
-* [Amos Wong Wen Jet](https://github.com/orgs/nus-mtp/people/amoshydra)
-* [Chua Jia Xuan](https://github.com/orgs/nus-mtp/people/chuajiaxuan)
+* [Tay Jie Hao](https://github.com/tayjiehao)
+* [Won Jun Ru Daphne](https://github.com/tharain)
+* [Lek Jia Ying](https://github.com/jiayingy)
+* [Amos Wong Wen Jet](https://github.com/amoshydra)
+* [Chua Jia Xuan](https://github.com/chuajiaxuan)
 
 ### elegant-owls
 
 Project: [Bill Organizer](https://github.com/nus-mtp/bill-organizer)
 
-* [Charlene Lee Kei Xin](https://github.com/orgs/nus-mtp/people/chaejinkeyne)
-* [Lim Xin Ai](https://github.com/orgs/nus-mtp/people/lmxn)
-* [Tan Yan Ling](https://github.com/orgs/nus-mtp/people/eatedcookie)
-* [Teddy Hartanto](https://github.com/orgs/nus-mtp/people/TeddyHartanto)
-* [Xin Kenan](https://github.com/orgs/nus-mtp/people/dev-seahouse)
+* [Charlene Lee Kei Xin](https://github.com/chaejinkeyne)
+* [Lim Xin Ai](https://github.com/lmxn)
+* [Tan Yan Ling](https://github.com/eatedcookie)
+* [Teddy Hartanto](https://github.com/TeddyHartanto)
+* [Xin Kenan](https://github.com/dev-seahouse)
 
 ### Team Pigeon
 
