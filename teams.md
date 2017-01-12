@@ -45,10 +45,12 @@ Project: [Bill Organizer](https://github.com/nus-mtp/bill-organizer)
 
 ### Team Pigeon
 
-* Guo Mingxuan	
-* Song Yikun	
-* Sheng Xuan	
-* Song Zhiwen
+Project: [Movie Pigeon](https://github.com/nus-mtp/movie-pigeon)
+
+* [Guo Mingxuan](https://github.com/Carl26)	
+* [Song Yikun](https://github.com/shadowsong27)
+* [Sheng Xuan](https://github.com/Sheng-Xuan)
+* [Song Zhiwen](https://github.com/zzzzwen)
 
 ### Xorcerers
 
