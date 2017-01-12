@@ -22,12 +22,12 @@ title: Teams
 * Natasha Koh Sze Sze
 
 ### Shashimi
-
-* Tay Jie Hao
-* Won Jun Ru Daphne
-* Lek Jia Ying
-* Amos Wong Wen Jet
-* Chua Jia Xuan
+#### Project: [Lecture Note 2.0](https://github.com/nus-mtp/lecture-note-2.0)
+* [Tay Jie Hao](https://github.com/orgs/nus-mtp/people/tayjiehao)
+* [Won Jun Ru Daphne](https://github.com/orgs/nus-mtp/people/tharain)
+* [Lek Jia Ying](https://github.com/orgs/nus-mtp/people/jiayingy)
+* [Amos Wong Wen Jet](https://github.com/orgs/nus-mtp/people/amoshydra)
+* [Chua Jia Xuan](https://github.com/orgs/nus-mtp/people/chuajiaxuan)
 
 ### elegant-owls
 
