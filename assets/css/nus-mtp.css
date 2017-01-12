@@ -17,5 +17,9 @@ body {
 table {
   padding: .75rem;
   vertical-align: top;
+}
+
+td, th {
+  padding: .5rem;
   border-top: 1px solid #eceeef
 }
