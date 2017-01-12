@@ -6,6 +6,7 @@ title: Schedule
 # Schedule for CS3283/4
 
 Time: Friday, 4:00 PM to 6:00 PM
+
 Venue: Video Conferencing Room
 
 ## Tentative Class Schedule
