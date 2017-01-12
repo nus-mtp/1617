@@ -13,3 +13,9 @@ h1, h2, h3, h4, h5 {
 body {
   background-color: #f4f4f4;
 }
+
+table {
+  padding: .75rem;
+  vertical-align: top;
+  border-top: 1px solid #eceeef
+}
