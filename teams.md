@@ -54,8 +54,10 @@ Project: [Movie Pigeon](https://github.com/nus-mtp/movie-pigeon)
 
 ### Xorcerers
 
-* Eric Ewe Yow Chong
-* Koh Ling Ling Jean
-* Lai Zhin Hou Darryl
-* Muhammad Adam Bin Ismail
-* Tay Siang Meng Sean
+Project: [STePS Networking Module](https://github.com/nus-mtp/steps-networking-module)
+
+* [Eric Ewe Yow Chong](https://github.com/ycewe)
+* [Koh Ling Ling Jean](https://github.com/JeanKoh)
+* [Lai Zhin Hou Darryl](https://github.com/Vylantze)
+* [Muhammad Adam Bin Ismail](https://github.com//Muhammad-Adam)
+* [Tay Siang Meng Sean](https://github.com/Sean-Tay)
