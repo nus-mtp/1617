@@ -7,11 +7,13 @@ title: Teams
 
 ### Lezzgo
 
-* Lam Zhen Zong, Nicholas
-* Tay Guo Qiang
-* Teo Qi Xuan
-* Wu Xiaoxiao
-* Yu Ruofan
+Project: [CS Study Planner](https://github.com/nus-mtp/another-cs-study-planner)
+
+* [Lam Zhen Zong, Nicholas](https://github.com/nlzz22)
+* [Tay Guo Qiang](https://github.com/tgqiang)
+* [Teo Qi Xuan](https://github.com/helloqx)
+* [Wu Xiaoxiao](https://github.com/a0129998)
+* [Yu Ruofan](https://github.com/xaterz)
 
 ### Rainbowhead Studios
 
