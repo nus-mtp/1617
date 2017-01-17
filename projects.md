@@ -18,7 +18,12 @@ A person who scans his phone bills/medical bills/banks statements often has to m
 
 This project aims to assist students in study planning, as well as the department in module planning.  Students can file their 4-year study plan online and adjust them along the way.  The system should provide guidance to students regarding module prerequisites and recommends interesting and relevant modules for students.  From module planning perspective, the system allow administrators to collect data and analyze the needs of the students, and analyze the effect of a curriculum change on the students.
 
-### 5. STePS Networking Module
+### 5. Simplify Video Sribing
+
+Video Scribing, also known as Whiteboard Video, is an engaging way to explain things to audience.  Such videos are particularly useful in the context of MOOCs.  See the [MinutePhysics YouTube Channel](https://www.youtube.com/user/minutephysics) for great examples. Video scribing, however, can be very time consuming to plan, record, and edit.  The goal of this project is to design and implement a system that is easy for video producer to plan, record, and edit such videos.
+
+This is an open-ended project: multiple teams can take up this project and propose/implement different solutions.
+
+### 6. STePS Networking Module
 
 SoC term Project Showcase (STePS) System has event workflow management, registration, check-in and voting modules. As the event is getting bigger, we would like to enhance the system with a networking module to enable attendees to network meaningfully and effectively before, during and after events. The module should classify/group users based on their interest and purpose of attending STePS, allow users to post/comment in forums of each STePS run, have personal chat with other attendees. You are required to design, develop and integrate the module with STePS system.
-
