@@ -108,3 +108,17 @@ title: Teams
 </ul>
 </td></tr></table>
 
+<h3 id="soloq">SOLOQ</h3>
+
+<table><tr><td valign="top">
+	<img src="images/soloq.jpg" width="280">
+</td><td valign="top">
+
+<p>Project: <a href="https://github.com/nus-mtp/e-tutorial">e-Tutorial</a></p>
+
+<ul>
+	<li><a href="https://github.com/yeojoey">Yeo Joey</a></li>
+	<li><a href="https://github.com/silfer">Goh Yuan Tat</a></li>
+	<li><a href="https://github.com/glutSolidSphere">Lim Weizheng</a></li>
+</ul>
+</td></tr></table>
