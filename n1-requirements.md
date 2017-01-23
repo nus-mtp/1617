@@ -7,8 +7,7 @@ title: On Software Requirements
 13 January 2017
 
 ### Introduction
-* The user requirements specify what your end-product can do / what the customer
-* wants
+* The user requirements specify what your end-product can do / what the customer wants
 * Functional / non-functional requirements
 * Many tools for requirement gathering:
     * brainstorming
@@ -30,13 +29,11 @@ title: On Software Requirements
 * Leads to better software design
 
 ### Properties of Good Requirements
-* Adapted from [Scott Sehlhorst’s Top Ten
-* Rules](http://tynerblain.com/blog/2006/05/25/writing-good-requirements-the-big-ten-rules/) 
+* Adapted from [Scott Sehlhorst’s Top Ten Rules](http://tynerblain.com/blog/2006/05/25/writing-good-requirements-the-big-ten-rules/)
    1. Correct -- of course
    1. Valuable — put in requirements that are of good values to the users; solve
 their problems; support their strategy, etc.
-       * prioritize the requirements (must-have, good-to-have,
-       * only-if-time-permits, etc)
+       * prioritize the requirements (must-have, good-to-have, only-if-time-permits, etc)
    2. Easy to read — write for people with diff background; use figures;
 scannable; cross-references, etc.
    3. Design free — focus on what, not how
@@ -46,10 +43,9 @@ scannable; cross-references, etc.
    5. Complete - doesn't leave out anything, consider error cases, external
 systems 
    6. Consistent — don’t put in impossible requirements, use consistent terms
-       * e.g., "device"/"phone"/"mobile" -- are they the same or not.  Establish
-       * a project glossary will help. 
-       * e.g., "only administrator can edit X", else where, "any user can edit
-       * X"
+       * e.g., "device"/"phone"/"mobile" -- are they the same or not.
+       * Establish a project glossary will help.
+       * e.g., "only administrator can edit X", else where, "any user can edit X"
    7. Unambiguous - cannot be interpreted differently by different people 
        * e.g., avoid "the user",
    8. Verifiable - can be verified within your means (finite, cost-effective way
