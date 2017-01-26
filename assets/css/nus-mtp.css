@@ -24,3 +24,9 @@ td, th {
   padding: .5rem;
   border-top: 1px solid #eceeef
 }
+
+.well {
+  background-image: none;
+  background-color: #fdd;
+}
+
