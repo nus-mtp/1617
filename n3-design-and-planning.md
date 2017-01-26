@@ -87,6 +87,12 @@ application/domain logic with the rest of the components, how to decompose the l
 components. It is most useful when we do not have access to, or ability to modify, the underlying components (e.g., we use an external library).
 
     Most of the usage scenarios of the facade pattern in your design, however, does not fit into the use cases, and the facade could be removed to expose the underlying components directly. If indeed the exposed components are too complex, then you should consider redesigning and simplifying the components first, before adding a facade over them to "sweep the complexity under the rug".
+    
+6. Too much dependencies among components.
+
+    Arrows between two components represents dependencies in some way between the components.  In some cases, teams end up with lots of arrows between the components, almost looks like a complete graph or complete bipartite graph.  
+    
+    In this case, it might be useful to see how to reduce the amount of dependencies among the components.  Introducing a new layer of indirection to decouple the components might help.
 
 ## 3. Sprint Planning
 
