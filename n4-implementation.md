@@ -34,8 +34,7 @@ Some properties of good code includes:
 * Extensible
 * Maintainable ([Boehm's curve](http://www.agile-process.org/change.html); common to have a cost of 100:1 after delivery)
 
-[Check out Page 1-2 of the _Clean Code Cheat Sheet_](http://www.planetgeek.ch/2013/06/05/clean-code-cheat-sheet/) for the
-dos and don'ts for writing clean code.
+[Check out Page 1-2 of the _Clean Code Cheat Sheet_](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) for the dos and don'ts for writing clean code.
 
 Advices:
 * Don't try to be clever or terse
