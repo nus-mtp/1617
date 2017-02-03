@@ -79,7 +79,7 @@ Don't underestimate the importance of indentation ([see Apple's goto fail bug](h
 * You need to automate the testing process as much as possible, and write the test cases while your code.
 * There are many tools and libraries for testing.  The framework you choose should have at least one.
 
-### 5. Commit Your Code
+### 6. Commit Your Code
 
 You should:
 * commit often
