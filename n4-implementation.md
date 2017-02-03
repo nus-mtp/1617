@@ -32,17 +32,16 @@ Some properties of good code includes:
 * Changeable
 * Readable (by human)
 * Extensible
-* Maintainable (Boehm's curve; common to have a cost of 100:1 after delivery)
+* Maintainable ([Boehm's curve](http://www.agile-process.org/change.html); common to have a cost of 100:1 after delivery)
 
-[Check out Page 1-2 of the _Clean Code Cheat Sheet_](http://www.planetgeek.ch/2013/06/05/clean-code-cheat-sheet/) for the
-dos and don'ts for writing clean code.
+[Check out Page 1-2 of the _Clean Code Cheat Sheet_](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) for the dos and don'ts for writing clean code.
 
 Advices:
 * Don't try to be clever or terse
 * Make your code self-explanatory (write as little comment as possible)
 * Comments are for high-level descriptions (what and why)
 * Use English
-* Don't be afraid of long names (thanks to autocomplete) (e.g., ```StudentViewController *studentViewController = [storyboard instantiateViewControllerWithIdentifier:@"StudentViewControllerID"]```
+* Don't be afraid of long names (thanks to autocomplete)
 
 You can learn to write good, clean, code by:
 * practice: write and rewrite
@@ -79,11 +78,11 @@ Don't underestimate the importance of indentation ([see Apple's goto fail bug](h
 * You need to automate the testing process as much as possible, and write the test cases while your code.
 * There are many tools and libraries for testing.  The framework you choose should have at least one.
 
-### 5. Commit Your Code
+### 6. Commit Your Code
 
 You should:
 * commit often
-* commit related changes together and unrelated changes separately
+* commit related changes together and unrelated changes separately (```git app -p``` or use a GUI)
 * [write good commit message](https://github.com/erlang/otp/wiki/Writing-good-commit-messages).  See [good practices](http://www.slideshare.net/TarinGamberini/commit-messages-goodpractices) by Tarin Gamberini here. In your commit message, describe specifically what has changed and **why**
 * NOT commit generated files (```*.class```) nor external libraries (e.g., ```node_modules```) into your repository.
 
@@ -98,16 +97,15 @@ Atlassian has a nice article on such [feature branch workflow](https://www.atlas
 
 Why is code review important?
 * "Rigorous inspections can remove up to 90% of errors from a software product before the first test case is run." -- “Facts and Fallacies of Software Engineering,” Robert Glass.
-* "The average defect detection rate is only 25% for unit testing, 35% for function testing, and 45% for integration testing. In contrast, the average
-effectiveness of design and code inspections are 55 and 60%." -- - “Code Complete,” Steve McConnell.
+* "The average defect detection rate is only 25% for unit testing, 35% for function testing, and 45% for integration testing. In contrast, the average effectiveness of design and code inspections are 55 and 60%." -- - “Code Complete,” Steve McConnell.
 
 Best practices of code review [by SmartBear](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf)
 
   * review small chunk (<400 lines) at a time
-	* take you time
-	* author should make sure code is ready before review (self-review, tested, make code readable)
-	* keep a checklist of common errors
-	* be positive (finding bugs is a good thing)
+  * take you time
+  * author should make sure code is ready before review (self-review, tested, make code readable)
+  * keep a checklist of common errors
+  * be positive (finding bugs is a good thing)
 
 
 ### 9. Continuous integration
@@ -116,7 +114,7 @@ Integrate your code with the rest and test as soon as you push.  This allows:
 
 * Everyone can see everything
 * You know what is broken immediately and can fix immediately
-* Contrast to: integrate at the end (usually crunch time) and you don't know whether it will work!  (e.g., HealthCare.gov launch disaster).
+* Contrast to: integrate at the end (usually crunch time) and you do not know whether it will work!  (e.g., HealthCare.gov launch disaster).
 * Keep the build/test process fast
 * Commit often, push often (to the main branch)
 
