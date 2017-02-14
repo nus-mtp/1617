@@ -10,7 +10,7 @@ title: Teams
 <table><tr><td valign="top">
 	<img src="images/lezzgo.jpg" width="280">
 	</td><td valign="top">
-	<p>Project: <a href="https://github.com/nus-mtp/cs-modify">CS Modify</a></p>
+	<p>Project: CS Modify <a href="https://github.com/nus-mtp/cs-modify">github</a> | <a href="https://csmodify.herokuapp.com">live</p>
 	<ul>
 		<li><a href="https://github.com/nlzz22">Lam Zhen Zong, Nicholas</a></li>
 		<li><a href="https://github.com/tgqiang">Tay Guo Qiang</a></li>
@@ -27,7 +27,7 @@ title: Teams
 	<img src="images/rainbowhead.jpg"  width="280">
 </td><td valign="top">
 
-<p>Project: <a href="https://github.com/nus-mtp/cs-study-planner">CS Study Planner</a></p>
+<p>Project: NUS Oracle <a href="https://github.com/nus-mtp/nus-oracle">github</a> | <a href="http://nus-oracle.herokuapp.com">live</a></p>
 
 <ul>
 	<li><a href="https://github.com/IamVacer">Adrian Chan Ee Ray</a></li>
@@ -63,8 +63,7 @@ title: Teams
 	<img src="images/elegant-owls.jpg" width="280">
 </td><td valign="top">
 
-<p>Project: <a href="https://github.com/nus-mtp/bill-organizer">Bill Organizer</a></p>
-
+<p>Project: Bill Organizer <a href="https://github.com/nus-mtp/bill-organizer">github</a> | <a href="https://billorg.herokuapp.com/">live</a></p>
 <ul>
 	<li><a href="https://github.com/chaejinkeyne">Charlene Lee Kei Xin</a></li>
 	<li><a href="https://github.com/lmxn">Lim Xin Ai</a></li>
