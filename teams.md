@@ -10,7 +10,7 @@ title: Teams
 <table><tr><td valign="top">
 	<img src="images/lezzgo.jpg" width="280">
 	</td><td valign="top">
-	<p>Project: CS Modify <a href="https://github.com/nus-mtp/cs-modify">github</a> | <a href="https://csmodify.herokuapp.com">live</p>
+	<p>Project: CS Modify <a href="https://github.com/nus-mtp/cs-modify">github</a> | <a href="https://csmodify.herokuapp.com">live</a></p>
 	<ul>
 		<li><a href="https://github.com/nlzz22">Lam Zhen Zong, Nicholas</a></li>
 		<li><a href="https://github.com/tgqiang">Tay Guo Qiang</a></li>
