@@ -45,7 +45,7 @@ title: Teams
 </td><td valign="top">
 
 
-<p>Project: <a href="https://github.com/nus-mtp/lecture-note-2.0">Lecture Note 2.0</a></p>
+<p>Project: Sashimi Note <a href="https://github.com/nus-mtp/lecture-note-2.0">github</a> | <a href="https://sashimi-note.herokuapp.com">live</a></p>
 
 <ul>
 	<li><a href="https://github.com/tayjiehao">Tay Jie Hao</a></li>
